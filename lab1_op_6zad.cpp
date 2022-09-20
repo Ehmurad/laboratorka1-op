@@ -1,4 +1,3 @@
-//интернекка корбутум тугу да сатаабаппын иьин
 #include <iostream>
 using namespace std;
 int main()
